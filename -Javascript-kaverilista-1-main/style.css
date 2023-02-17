@@ -1,0 +1,16 @@
+body {
+    font-family: 'poppins';
+}
+
+#container {
+    margin: auto;
+    width: 60%;
+}
+
+.kaverilista {
+    padding: 3rem;
+}
+
+#lista {
+    list-style-type: decimal;
+}
